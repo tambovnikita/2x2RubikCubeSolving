@@ -32,10 +32,10 @@
 
 Для корректного запуска Python-программы необходимо отдельно скачать и добавить в корневую папку проекта `.db-файл` базы данных (рядом с файлом `main.py`).  
 
-База данных - [zip-файл]() 
+**База данных - [Скачать](https://github.com/tambovnikita/2x2RubikCubeSolving/releases/download/v1.0.0/db.zip)**
 
 ### Прямые ссылки на скачивание
 
-Windows *(.exe-файл)* - [Скачать]()  
-MacOS *(.app-файл)* - [Скачать]()  
-MacOS *(исполняемый файл Unix)* - [Скачать]()
+Windows *(.exe-файл)* - [Скачать](https://github.com/tambovnikita/2x2RubikCubeSolving/releases/download/v1.0.0/2x2RubikCubeSolving_Windows.zip)  
+MacOS *(.app-файл)* - [Скачать](https://github.com/tambovnikita/2x2RubikCubeSolving/releases/download/v1.0.0/2x2RubikCubeSolving_MacOS.zip)  
+MacOS *(исполняемый файл Unix)* - [Скачать](https://github.com/tambovnikita/2x2RubikCubeSolving/releases/download/v1.0.0/2x2RubikCubeSolving_Unix.zip)
