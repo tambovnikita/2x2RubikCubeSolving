@@ -26,7 +26,13 @@
 
 ![Пример](imgs/solving.png)
 
-Помимо стандартного запуска с помощью Python (`main.py`), предусмотрены запуски на Windows (`2x2CubeSolving.exe`) и на MacOS (`2x2CubeSolving.app`/`исполняемый файл Unix`).
+### Технологии
+
+- **Python** - *основной язык программирования*
+- **Tkinter** - *создание GUI*
+- **SQLite** - *хранение и использование "Мгновенных решений"*
+- **OpenCV** - *работа с видео*
+- **Pillow** - *создание анимаций*
 
 ### Необходимо дополнительно скачать
 
@@ -35,6 +41,8 @@
 **База данных - [Скачать](https://github.com/tambovnikita/2x2RubikCubeSolving/releases/download/v1.0.0/db.zip)**
 
 ### Прямые ссылки на скачивание
+
+Помимо стандартного запуска с помощью Python (`main.py`), предусмотрены запуски на Windows (`2x2CubeSolving.exe`) и на MacOS (`2x2CubeSolving.app`/`исполняемый файл Unix`).
 
 Windows *(.exe-файл)* - [Скачать](https://github.com/tambovnikita/2x2RubikCubeSolving/releases/download/v1.0.0/2x2RubikCubeSolving_Windows.zip)  
 MacOS *(.app-файл)* - [Скачать](https://github.com/tambovnikita/2x2RubikCubeSolving/releases/download/v1.0.0/2x2RubikCubeSolving_MacOS.zip)  
